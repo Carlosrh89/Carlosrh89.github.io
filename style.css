@@ -12,6 +12,7 @@ h1{
     text-align: center;
 }
 .conteiner{
+    border: 2px solid red;
     width: 600px;
     margin: 10px auto;
 }
